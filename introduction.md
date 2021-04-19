@@ -10,3 +10,5 @@ DynamoDB stores all the data in solid state disks (SSDs) and is automatically re
 Availability Zones in an AWS Region, providing built-in high availability and data durability.
 
 **Next:** [Core Components](core-components.md)
+<br/>
+**Previous:** [Readme](readme.md)

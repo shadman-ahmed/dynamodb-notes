@@ -22,5 +22,9 @@ the partition (internal storage) where the item will be stored.
 * **Composite primary key** enables to query a subset of items from a table based on their partition key value
 
 * Partition key and sort key are also known as hash attribute and range attribute respectively 
-  
+
+
+**Next:** [Secondary Indexes](secondary-index.md)
+<br/>
+**Previous:** [Introduction](core-components.md)
 
